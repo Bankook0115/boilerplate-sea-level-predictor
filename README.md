@@ -24,5 +24,5 @@ This is the boilerplate for the Sea Level Predictor project. Instructions for bu
 
 ### Result
 
-![plot]('sea_level_plot.png')  
-![test_result]('test_result.png')  
+![plot](sea_level_plot.png)  
+![test_result](test_result.png)  
